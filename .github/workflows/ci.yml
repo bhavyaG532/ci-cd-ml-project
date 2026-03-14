@@ -23,5 +23,3 @@ jobs:
     - name: Run ML script
       run: |
         python train.py
-
-Add CI workflow
